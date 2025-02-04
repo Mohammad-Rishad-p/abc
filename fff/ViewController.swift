@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("sigma")
         print("i am here")
         print("sigma")
+        print("are you new here")
         print("sigma")
     }
 
